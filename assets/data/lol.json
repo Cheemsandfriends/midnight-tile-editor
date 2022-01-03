@@ -1,0 +1,92 @@
+{
+
+            "tiles": [{
+                "sprite": "assets/images/tiles/default.png",
+                "x": 512,
+                "y": 320,
+                "collider": false,
+                "immovable": true,
+                "bouncy": false,
+                "slippery": false,
+                "climbable": false,
+                "type": "default",
+                "layer": "midground"
+            },{
+                "sprite": "assets/images/tiles/default.png",
+                "x": 448,
+                "y": 320,
+                "collider": false,
+                "immovable": true,
+                "bouncy": false,
+                "slippery": false,
+                "climbable": false,
+                "type": "default",
+                "layer": "midground"
+            },{
+                "sprite": "assets/images/tiles/default.png",
+                "x": 512,
+                "y": 384,
+                "collider": false,
+                "immovable": true,
+                "bouncy": false,
+                "slippery": false,
+                "climbable": false,
+                "type": "default",
+                "layer": "midground"
+            },{
+                "sprite": "assets/images/tiles/default.png",
+                "x": 576,
+                "y": 352,
+                "collider": false,
+                "immovable": true,
+                "bouncy": false,
+                "slippery": false,
+                "climbable": false,
+                "type": "default",
+                "layer": "midground"
+            },{
+                "sprite": "assets/images/tiles/default.png",
+                "x": 544,
+                "y": 256,
+                "collider": false,
+                "immovable": true,
+                "bouncy": false,
+                "slippery": false,
+                "climbable": false,
+                "type": "default",
+                "layer": "midground"
+            },{
+                "sprite": "assets/images/tiles/default.png",
+                "x": 480,
+                "y": 224,
+                "collider": false,
+                "immovable": true,
+                "bouncy": false,
+                "slippery": false,
+                "climbable": false,
+                "type": "default",
+                "layer": "midground"
+            },{
+                "sprite": "assets/images/tiles/default.png",
+                "x": 416,
+                "y": 192,
+                "collider": false,
+                "immovable": true,
+                "bouncy": false,
+                "slippery": false,
+                "climbable": false,
+                "type": "default",
+                "layer": "midground"
+            },{
+                "sprite": "assets/images/tiles/default.png",
+                "x": 416,
+                "y": 64,
+                "collider": false,
+                "immovable": true,
+                "bouncy": false,
+                "slippery": false,
+                "climbable": false,
+                "type": "default",
+                "layer": "midground"
+            }]
+}
